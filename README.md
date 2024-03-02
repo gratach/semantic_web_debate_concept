@@ -1,6 +1,6 @@
 # Semantic Web Debate Concept
 
-A [concept proposal](./docs/index.md) for a debate platform that uses semantic web technologies to structure discussion.
+A [concept proposal](./doc/index.md) for a debate platform that uses semantic web technologies to structure discussion.
 
 ## Installation and Setup
 
